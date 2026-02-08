@@ -87,7 +87,7 @@ These slicers allow users to dynamically filter visuals and uncover deeper insig
 ---
 ## 📸 Dashboard Screenshot
 
-![Sales Dashboard](Sales dashboard.png)
+![Sales Dashboard](https://github.com/rashuuu2/Sales-Dashboard/blob/main/Sales%20dashboard.png)
 
 ---
 
