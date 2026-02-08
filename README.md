@@ -85,6 +85,11 @@ These slicers allow users to dynamically filter visuals and uncover deeper insig
 - **Data Visualization & Analytics**
 
 ---
+## 📸 Dashboard Screenshot
+
+![Sales Dashboard](Sales dashboard.png)
+
+---
 
 ## 💡 Key Insights Enabled
 
